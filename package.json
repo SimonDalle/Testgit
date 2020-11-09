@@ -1,0 +1,19 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "dette er en test for at se om det virker",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonDalle/Testgit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonDalle/Testgit/issues"
+  },
+  "homepage": "https://github.com/SimonDalle/Testgit#readme"
+}
